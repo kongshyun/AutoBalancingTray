@@ -4,7 +4,7 @@ This project is an Arduino-based balancing tray system designed to maintain a st
 
 This project was a **team project** conducted during a **university course on Automation Systems** in the third year of college.  
 
-- **Team Members**: 4  
+- **😄Team Members**: 4  
   - **Design**: 2 members  
   - **Control**: 2 members  
   
