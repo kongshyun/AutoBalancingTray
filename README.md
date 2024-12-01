@@ -2,6 +2,12 @@
 
 This project is an Arduino-based balancing tray system designed to maintain a stable horizontal position using stepper motors and an MPU-6050 sensor. It implements advanced control techniques like Kalman filtering and PID control for precise operation.
 
+This project was a **team project** conducted during a **university course on Automation Systems** in the third year of college.  
+
+- **Team Members**: 4  
+  - **Design**: 2 members  
+  - **Control**: 2 members  
+  
 ## Core Explanation
 
 The core technology of this project is **PID Control**, which combines **Proportional (P)**, **Integral (I)**, and **Derivative (D)** components to reach the target value efficiently and accurately.  
